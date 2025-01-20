@@ -15,5 +15,7 @@ I am a passionate Full-Stack Developer with a strong foundation in Computer Scie
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah-daulatzai&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-daulatzai&layout=compact&hide_title=true)
+
 
 
