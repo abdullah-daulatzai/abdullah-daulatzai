@@ -1,8 +1,11 @@
 ## About Me 
 I’m a passionate and driven Full-Stack Developer with a solid foundation in Computer Science and Technology. I’m genuinely excited by the process of building practical applications and constantly improving my skill set. Comfortable working across both front-end and back-end, I focus on delivering high-quality, user-centred solutions. I thrive in collaborative environments, where diverse perspectives are valued, and clear communication leads to the best outcomes. I’m eager to take on new challenges, contribute to meaningful projects, and grow within a supportive and forward-thinking team.
-<!--
-**abdullah-daulatzai/abdullah-daulatzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+🛠 My technical skill set includes:
+
+* Frontend: HTML, CSS, JavaScript, TypeScript, React,Tailwind CSS, Bootstrap
+* Backend: Node.js, Express.js, C#, SQLite3,MySQL, Knex
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
