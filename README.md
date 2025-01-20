@@ -18,4 +18,6 @@ I am a passionate Full-Stack Developer with a strong foundation in Computer Scie
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-daulatzai&layout=compact&hide_title=true&theme=radical)
 
 
+## 🧑‍💻 Currently Working on 
+* I am developing the Weekwise project, an app designed to help users manage their tasks and goals with a simple, intuitive interface for a better user experience
 
