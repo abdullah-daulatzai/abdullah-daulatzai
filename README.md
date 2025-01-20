@@ -6,8 +6,11 @@ I am a passionate Full-Stack Developer with a strong foundation in Computer Scie
 * Frontend: HTML, CSS, JavaScript, TypeScript, React,Tailwind CSS, Bootstrap
 * Backend: Node.js, Express.js, C#, SQLite3,MySQL, Knex
 
-🚀 I am committed to continuous learning and thrive on taking on new challenges as opportunities to grow. Exploring new technologies keeps me engaged, and I’m always looking to expand my skills
+🚀 I am committed to continuous learning and thrive on taking on new challenges as opportunities to grow. Exploring new technologies keeps me engaged, and I’m always looking to expand my skills.
 
+🔗 [Explore my portfolio here](https://abdullah-daulatzai.github.io/portfolio)
+
+📄 [View my CV here](https://drive.google.com/file/d/1i5-CWB3cyvSoJYn7__3q_juSrE8za0hY/view?usp=sharing)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
