@@ -21,3 +21,5 @@ I am a passionate Full-Stack Developer with a strong foundation in Computer Scie
 ## 🧑‍💻 Currently Working on 
 * I am developing the Weekwise project, an app designed to help users manage their tasks and goals with a simple, intuitive interface for a better user experience
 
+* Building a forex trading bot to automate and optimise trading decisions based on market analysis 🤖 .
+
